@@ -2,7 +2,7 @@
 - 👀 I’m interested in web&android development
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me
--  --> ✉MAIL:nikhilanandgampala@gmail.com
+-  --> ✉MAIL:gampalanikhilanand@gmail.com
 -     🎮Discord: NikhilAnand#9106
 <!---
 Nikhil-gna/Nikhil-gna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
