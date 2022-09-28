@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Nikhil Anand
+- 👩‍💻 Web developer(Front-end)
+- 🌱 I’m currently learning Backend
 - 👀 I’m interested in web&android development
-- 🌱 I’m currently learning javascript
 - 📫 How to reach me
 -  --> ✉MAIL:gampalanikhilanand@gmail.com
 -     🎮Discord: NikhilAnand#9106
