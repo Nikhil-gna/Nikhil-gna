@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nikhil Anand
-- 👩‍💻 Web developer(Front-end)
+- 🧑🏻‍💻 Web developer(Front-end)
 - 🌱 I’m currently learning Backend
 - 👀 I’m interested in web&android development
 - 📫 How to reach me
