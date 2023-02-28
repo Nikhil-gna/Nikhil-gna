@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nikhil Anand
 - 👨‍💻 Web developer
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React⚛️
 - 👀 I’m interested in web&android development
 - 📫 How to reach me
 -  --> ✉MAIL:gampalanikhilanand@gmail.com
