@@ -2,9 +2,13 @@
 - 👨‍💻 Web developer
 - 🌱 I’m currently learning Nextjs & AWS
 - 👀 I’m interested in Web & App Development
-# 📫 How to reach me
--    ✉MAIL:gampalanikhilanand@gmail.com
--    🎮Discord ```kairos.txt```
+## 📫 How to Reach Me
+
+- ✉️ **Email:** [gampalanikhilanand@gmail.com](mailto:gampalanikhilanand@gmail.com)
+- 🌐 **Portfolio:** [nikhilanand.vercel.app](https://nikhilanand.vercel.app/)
+- 💼 **LinkedIn:** [Nikhil Anand](https://www.linkedin.com/in/nikhil-anand-00x)
+- 🎮 **Discord:** `kairos.txt`
+
 <!---
 Nikhil-gna/Nikhil-gna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
