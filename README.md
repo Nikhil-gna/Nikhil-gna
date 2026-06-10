@@ -7,6 +7,7 @@
 - ✉️ **Email:** [gampalanikhilanand@gmail.com](mailto:gampalanikhilanand@gmail.com)
 - 🌐 **Portfolio:** [nikhilanand.vercel.app](https://nikhilanand.vercel.app/)
 - 💼 **LinkedIn:** [Nikhil Anand](https://www.linkedin.com/in/nikhil-anand-00x)
+- 💻 **LeetCode:** [Nikhil Anand](https://leetcode.com/u/NikhilAnand00/)
 - 🎮 **Discord:** `kairos.txt`
 
 <!---
