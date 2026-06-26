@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nikhil Anand
-- 👨‍💻 Web developer
-- 🌱 I’m currently learning Nextjs & AWS
-- 👀 I’m interested in Web & App Development
+- 👨‍💻 Full Stack developer
+  
 ## 📫 How to Reach Me
 
 - ✉️ **Email:** [gampalanikhilanand@gmail.com](mailto:gampalanikhilanand@gmail.com)
